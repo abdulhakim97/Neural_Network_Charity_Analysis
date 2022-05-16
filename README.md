@@ -33,4 +33,5 @@ No we were targeting at least 75%, but ended up with .718 as our height.
 Increasing the neurons, used a model with (3) hidden layers and used a different activation function.
 
 ---------------------------------------------------------------
-Summary: In summary the neural network performed average and did not hit our expected accuracy percentage of 75%. Though I would concluded that adding an extra hidden layer did much better in increasing the accuracy than the other different steps. 
+# Summary: 
+In summary the neural network performed average and did not hit our expected accuracy percentage of 75%. Though I would concluded that adding an extra hidden layer did much better in increasing the accuracy than the other different steps. 
